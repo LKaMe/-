@@ -10,7 +10,7 @@ import data_input_helper as data_helpers
 from text_cnn import TextCNN
 import math
 from tensorflow.contrib import learn
-#git测试
+
 
 # Parameters
 # ==================================================
