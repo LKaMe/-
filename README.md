@@ -5,7 +5,7 @@
 环境要求：
 ---
 python:3.x <br /> 
-tensorflow  1.x
+tensorflow  2.x
 
 <br /> <br /> 
 运行<br /> 
